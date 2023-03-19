@@ -1,0 +1,17 @@
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Service.deps.json
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Service.dll
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Service.pdb
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Data.dll
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Domain.dll
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Data.pdb
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\bin\Debug\net7.0\ZeKju.Domain.pdb
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.csproj.AssemblyReference.cache
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.AssemblyInfoInputs.cache
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.AssemblyInfo.cs
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.csproj.CoreCompileInputs.cache
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.csproj.CopyComplete
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.dll
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\refint\ZeKju.Service.dll
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ZeKju.Service.pdb
+D:\Development\Console\ZeKju\ZeKju\ZeKju.Service\obj\Debug\net7.0\ref\ZeKju.Service.dll
