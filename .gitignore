@@ -1,0 +1,9 @@
+/.vs/*
+/ZeKju.App/bin/*
+/ZeKju.App/obj/*
+/ZeKju.Data/bin/*
+/ZeKju.Data/obj/*
+/ZeKju.Domain/bin/*
+/ZeKju.Domain/obj/*
+/ZeKju.Service/bin/*
+/ZeKju.Service/obj/*

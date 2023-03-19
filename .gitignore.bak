@@ -1,0 +1,5 @@
+/.vs/*
+/ZeKju.App/bin/*
+/ZeKju.App/obj/*
+/ZeKju.Data/bin/*
+/ZeKju.Data/obj/*
